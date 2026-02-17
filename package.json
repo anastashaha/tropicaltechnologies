@@ -1,0 +1,14 @@
+{
+  "name": "node-landing-site",
+  "version": "1.0.0",
+  "description": "A mobile responsive landing page built with Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
