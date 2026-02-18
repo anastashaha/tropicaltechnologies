@@ -24,6 +24,7 @@ body {
     display: block;
     float: none;
     margin: 0 auto; /* Center the logo */
+    padding-top: 40%;
 }
 
 @media (max-width: 768px) {
